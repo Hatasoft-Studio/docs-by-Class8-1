@@ -12,7 +12,7 @@
 >
 > ---
 >
-> [**[>点我编辑<]**](https://github.com/Hatasoft-Studio/docs-by-Class8-1/edit/main/)
+> [**[>点我编辑<]**](https://github.com/Hatasoft-Studio/docs-by-Class8-1/edit/main/gh-glossary.md)
 
 
 
