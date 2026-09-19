@@ -12,7 +12,7 @@
 >
 > ---
 >
-> [**[>点我编辑<]**](https://github.com/Hatasoft-Studio/docs-by-Class8-1/blob/main/create-a-github-account.md)
+> [**[>点我编辑<]**](https://github.com/Hatasoft-Studio/docs-by-Class8-1/edit/main/how-to-use-github.md)
 
 
 
